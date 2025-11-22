@@ -1,3 +1,11 @@
+---
+permalink: /
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # About Me
 
 I am currently a **Postdoctoral Research Scientist** at [Columbia University](https://www.columbia.edu/), hosted by Prof. [Samory Kpotufe](https://www.cs.columbia.edu/~kp/). My research focuses on the theory of transfer learning.
