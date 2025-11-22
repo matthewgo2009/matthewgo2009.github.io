@@ -1,12 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 # About Me
 
 I am currently a **Postdoctoral Research Scientist** at [Columbia University](https://www.columbia.edu/), hosted by Prof. [Samory Kpotufe](https://www.cs.columbia.edu/~kp/). My research focuses on the theory of transfer learning.
@@ -18,14 +9,13 @@ My primary research interest lies in **Collaborative Learning** from heterogeneo
 *   Transfer Learning
 *   Multi-task Learning
 
-I am also interested in **Optimization** (distributed, minimax, and non-convex optimization) and applying statistical learning theory to understand modern machine learning scenarios, such as pre-training and fine-tuning.
-
-I have published over 10 papers in top-tier conferences such as **NeurIPS**, **ICML**, and **AISTATS**.
+I am also interested in **Optimization** (distributed, minimax, and non-convex optimization) and applying statistical learning theory to understand modern machine learning scenarios, such as LLM pre-training and fine-tuning.
 
 ---
 
 ### 🔥 News
-*   **[Sep. 2024]** I joined Columbia University as a Postdoctoral Research Scientist!
-*   **[Aug. 2024]** I successfully defended my Ph.D. thesis at Penn State.
 *   **[2025]** Paper on Mixed-Sample SGD accepted to **NeurIPS 2025**.
+*   **[Sep. 2024]** I joined Columbia University as a Postdoctoral Research Scientist!
 *   **[2025]** Paper on Stochastic Compositional Minimax Optimization accepted to **AISTATS 2025**.
+*   **[Aug. 2024]** I successfully defended my Ph.D. thesis at Penn State
+
