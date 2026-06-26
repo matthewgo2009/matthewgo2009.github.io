@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Yuyang Deng"
 title_separator          : "-"
 name                     : &name "Yuyang Deng"
-description              : &description "personal description"
+description              : &description "Machine learning researcher working on federated learning, transfer learning, optimization, and LLM post-training."
 url                      : https://matthewgo2009.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "matthewgo2009/matthewgo2009.github.io"
@@ -22,12 +22,12 @@ repository               : "matthewgo2009/matthewgo2009.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.jpg"
+  avatar           : 
   name             : "Yuyang Deng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Columbia University"
+  bio              : "Advanced AI Research Scientist Manager at Accenture Center for Advanced AI."
+  location         : "United States"
+  employer         : "Accenture"
   uri              : # URL
   email            : "matthewgo2009@gmail.com" 
 
@@ -47,13 +47,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "matthewgo2009"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
