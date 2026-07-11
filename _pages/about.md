@@ -24,6 +24,8 @@ My research focuses on machine learning from heterogeneous data sources, with in
 
 ### News
 
+* **2026:** Paper on distributed sub-model training accepted to **AISTATS 2026**.
+* **2026:** Paper on Neyman-Pearson classification under distribution shift accepted to **ICLR 2026**.
 * **Jan. 2026:** Joined Accenture Center for Advanced AI as an Advanced AI Research Scientist Manager.
 * **2025:** Paper on Mixed-Sample SGD accepted to **NeurIPS 2025**.
 * **2025:** Paper on stochastic compositional minimax optimization accepted to **AISTATS 2025**.
