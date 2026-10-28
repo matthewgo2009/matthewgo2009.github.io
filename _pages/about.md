@@ -14,10 +14,10 @@ I received my Ph.D. in Computer Science and Engineering from [The Pennsylvania S
 
 My research focuses on machine learning from heterogeneous data sources, with interests spanning:
 
-* LLM post-training and self-improving agent systems
-* Federated learning and model personalization
-* Transfer learning, multi-task learning, and multi-domain learning
-* Large-scale, distributed, minimax, and non-convex optimization
+* LLM post-training and self-improving learning
+* Transfer learning, multi-task learning and federated learning
+* Transferrable Agent Evaluation Method
+* Large-scale, minimax and non-convex optimization
 
 ---
 
